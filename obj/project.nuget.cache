@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MD3VsxpIYfo=",
+  "success": true,
+  "projectFilePath": "/home/moaz/avanade-webapp/avanade-webapp.csproj",
+  "expectedPackageFiles": [
+    "/home/moaz/.nuget/packages/microsoft.netcore.app.ref/8.0.31/microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "/home/moaz/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.31/microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "/home/moaz/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.31/microsoft.netcore.app.host.linux-x64.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
